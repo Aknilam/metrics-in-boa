@@ -1,6 +1,6 @@
-# Metrics implemented in Boa
+# Software eingineering metrics implemented in [Boa](https://github.com/boalang)
 
-Metrics implemented for paper `Software metrics in Boa large-scale software mining infrastructure: challenges and solutions`.
+Metrics implemented for the research paper `Software metrics in Boa large-scale software mining infrastructure: challenges and solutions`.
 
 Authors:
 Agnieszka Patalas, Michał Malinka, Wojciech Cichowski, Piotr Maćkowiak
@@ -26,4 +26,4 @@ The following metrics are implemented:
 * Response For Class (RFC)
 * Weighted Methods Per Class (WMC)
 
-Details connected with metrics can be found in mentioned paper.
+Details connected with metrics can be found in the mentioned paper.
