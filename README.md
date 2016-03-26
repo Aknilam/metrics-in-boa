@@ -3,9 +3,8 @@
 Metrics implemented for the research paper `Software metrics in Boa large-scale software mining infrastructure: challenges and solutions`.
 
 Authors:
-Agnieszka Patalas, Michał Malinka, Wojciech Cichowski, Piotr Maćkowiak
+Agnieszka Patalas, Wojciech Cichowski, Michał Malinka, Wojciech Stępniak, Piotr Maćkowiak, Lech Madeyski
 
-under guidance of associate professor Lech Madeyski
 
 Models and Metrics in Software Engineering Project
 
@@ -16,7 +15,8 @@ The following metrics are implemented:
 
 * Cumulative Number Of Anonymous Declarations (CNOAD)
 * Cumulative Number Of Fields (CNOF)
-* Cumulative Number Of Statements In Methods (CNOSIM)
+* Cumulative Number Of Statements In Methods (CNOSIM) 
+* Cumulative Number of Methods (CNOM)
 * Cumulative Weighted Methods Per Class (CWMC)
 * Depth Of Declaration Nesting (DODN)
 * Number Of Anonymous Declarations (NOAD)
@@ -24,6 +24,6 @@ The following metrics are implemented:
 * Number Of Nested Delaration (NOND)
 * Number Of Statements In Methods (NOSIM)
 * Response For Class (RFC)
-* Weighted Methods Per Class (WMC)
+* Number of Methods (NOM)
 
 Details connected with metrics can be found in the mentioned paper.
